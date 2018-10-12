@@ -1,0 +1,11 @@
+size(300,300);
+fill(245,250,0);
+ellipse(180,150,100,100);
+fill(0,0,0);
+textSize(25);
+text("CARD",155,155);
+fill(250,0,0,150);
+ellipse(100,150,100,100);
+fill(0,0,0);
+textSize(22);
+text("MASTER",50,155);
